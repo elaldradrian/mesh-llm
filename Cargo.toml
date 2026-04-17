@@ -14,3 +14,6 @@ default-members = [
     "mesh-llm/plugin",
 ]
 resolver = "2"
+
+[workspace.package]
+version = "0.60.2"

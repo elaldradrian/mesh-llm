@@ -11,7 +11,6 @@ mesh-llm/ui/dist/
 evals/results/
 .sisyphus/
 .playwright-mcp/
-.envrc
 .moe-cache/
 __pycache__/
 *.pyc
@@ -20,3 +19,4 @@ __pycache__/
 dist/MeshLLMFFI.xcframework.zip
 sdk/swift/Generated/MeshLLMFFI.xcframework/
 .impeccable.md
+.direnv

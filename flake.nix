@@ -71,7 +71,7 @@
           pname = "mesh-llm-ui";
           version = "0.0.1";
           src = ./mesh-llm/ui;
-          npmDepsHash = "sha256-YKoOTbAbgafk04xHuZ1TuVE/n3qGrdHtRelPyRx2nTs=";
+          npmDepsHash = "sha256-nuPLQIIGw7k7Jbhb93pWH+P2S8nG/fpSJsAdVSH2TTU=";
           npmDepsFetcherVersion = 2;
           NODE_OPTIONS = "--max-old-space-size=4096";
           buildPhase = ''
